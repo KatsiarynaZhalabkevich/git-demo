@@ -2,3 +2,6 @@ New song
 La la la la 
 String 2
 new String 3
+
+2 more strings from the song
+Lalalalalala

@@ -5,6 +5,3 @@ new String 3
 
 2 more strings from the song
 Lalalalalala
---------------------------
-
-
